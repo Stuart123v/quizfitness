@@ -303,7 +303,7 @@ export default function App() {
 
                 <div className="w-full relative flex flex-col items-start">
                   {/* Image to the right */}
-                  <div className="absolute top-[-15%] right-[-20%] w-[95%] pointer-events-none z-0">
+                  <div className="absolute top-[-5%] right-[-40%] w-[110%] pointer-events-none z-0">
                     <img 
                       src="https://i.postimg.cc/PT9n11v9/photo-4985532981787167626-y-removebg-preview.png" 
                       alt="Asian Fitness Woman" 
